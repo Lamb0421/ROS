@@ -1,4 +1,4 @@
-# Ubuntu22.04 安裝ROS2 iron 步驟
+# Ubuntu 安裝ROS2 iron 步驟
 ### 確認系統區域設置
 
 + 查看系統區域是否為UTF-8
